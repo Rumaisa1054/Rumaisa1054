@@ -9,9 +9,8 @@
   <h2>📚 Achievements</h2>
   <ul>
     <li>
-      International Awards:
       <ul>
-        <li><h3>CS50 Harvard Puzzle Day 2024: Harvard University</h3>h3><br>
+        <li><h3>CS50 Harvard Puzzle Day 2024: Harvard University</h3><br>
           Achieved a Perfect Score of 9 out of 9 in CS50 Harvard Puzzle Day 2024, demonstrating exceptional problem-solving skills and effective teamwork.</li>
       </ul>
     </li>
@@ -22,6 +21,10 @@
     <li>
       <h3>First Place at Mixtral-8x7b-24-hours Challenge Hackathon: LabLab.ai</h3><br>
       Implemented an Agent-Simulated Therapy Session Application under Leadership of Team Leader Michael Lively (Founder of QuantumAI LLC) that provides users with an opportunity to engage in therapy sessions with AI agents demonstrating creativity and empathy.
+    </li>
+    <li>
+      <h3>Honored with a Laptop under Prime Minister Laptop Scheme: </h3><br>
+      Recognized as a recipient of PM Laptop Scheme by Higher Education of Pakistan. Awarded in acknowledgment of academic excellence with CGPA of 3.89 out of 4.
     </li>
   </ul>
   <h2>🤝 Leadership and Volunteer Experience</h2>
