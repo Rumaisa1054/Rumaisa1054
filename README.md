@@ -1,7 +1,14 @@
 <H1>👋 Hi, I’m Rumaisa.</H1>
 
-<p>
-  I'm a dedicated Computer Science student at the University of Engineering and Technology Taxila, deeply engaged in solving LeetCode problems to hone my problem-solving skills.
-  My enthusiasm for platforms like LeetCode drives me to continuously refine my abilities and algorithmic thinking, deriving joy from crafting elegant solutions.
-  With a keen interest in Deep Learning and Machine Learning, I'm eager to explore their applications and contribute to innovative AI projects, seeking collaboration and diverse perspectives.
-</p>
+<div>
+  <p>
+    Dedicated Computer Science student at UET Taxila, passionate about coding & problem-solving. Actively engaged in LeetCode, refining problem-solving skills.
+  </p>
+  <p>
+    Enthusiastic about Deep Learning & Machine Learning, eager to explore applications. Seeking AI project collaborations & diverse learning opportunities.
+  </p>
+  <p>
+    Reach out at <a href="mailto:rumaisa1054@gmail.com">rumaisa1054@gmail.com</a> for collaboration or connection!
+  </p>
+</div>
+
