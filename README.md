@@ -54,17 +54,17 @@
       Bachelor of Computer Science<br>
       CGPA: 3.95 out of 4<br>
       Relevant Coursework: Artificial Neural Networks, Data Structures and Algorithms, Object Oriented Programming, Design and Analysis of Algorithms.<br>
-    </li>
+    </li><br>
     <li>
       <strong>Army Public College, Attock, Federal Board</strong><br>
       Scored 1055/1100 in Higher Secondary School Examination 2020 - 2021<br>
       [39th Position in Federal Board All over Pakistan]<br>
-    </li>
+    </li><br>
     <li>
       <strong>Army Public School, Attock, Federal Board</strong><br>
       Achieved 1054/1100 in Secondary School Examination 2019 – 2020<br>
       [35th Position in Federal Board All Over Pakistan]<br>
-    </li>
+    </li><br>
   </ul>
   <h2>💻 Technical Skills</h2>
   <ul>
