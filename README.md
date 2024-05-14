@@ -5,7 +5,6 @@
 <p>Seeking collaborations in AI, I'm open to diverse perspectives. Reach out at LinkedIn to connect and explore the intersection of technology and problem-solving!</p>
 
 <div>
-  <h1>Welcome to My GitHub Profile🚀</h1>
   <h2>📚 Achievements</h2>
   <ul>
     <li>
