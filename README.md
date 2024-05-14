@@ -11,40 +11,39 @@
     <li>
       International Awards:
       <ul>
-        <li>CS50 Harvard Puzzle Day 2024: Harvard University<br>
+        <li><h3>CS50 Harvard Puzzle Day 2024: Harvard University</h3>h3><br>
           Achieved a Perfect Score of 9 out of 9 in CS50 Harvard Puzzle Day 2024, demonstrating exceptional problem-solving skills and effective teamwork.</li>
       </ul>
     </li>
     <li>
-      First Place at PHI-2 Technology 24 Hours Challenge Hackathon: LabLab.ai<br>
+      <h3>First Place at PHI-2 Technology 24 Hours Challenge Hackathon: LabLab.ai</h3><br>
       Developed a Groundbreaking project ‘Graph Detective’ An innovative application that utilizes AI to uncover fraudulent patterns in various sectors under Leadership of Team Leader Michael Lively (Founder of QuantumAI LLC).
     </li>
     <li>
-      First Place at Mixtral-8x7b-24-hours Challenge Hackathon: LabLab.ai<br>
+      <h3>First Place at Mixtral-8x7b-24-hours Challenge Hackathon: LabLab.ai</h3><br>
       Implemented an Agent-Simulated Therapy Session Application under Leadership of Team Leader Michael Lively (Founder of QuantumAI LLC) that provides users with an opportunity to engage in therapy sessions with AI agents demonstrating creativity and empathy.
     </li>
   </ul>
   <h2>🤝 Leadership and Volunteer Experience</h2>
   <ul>
     <li>
-      ICode Guru Silicon Valley, California, USA<br>
-      Moderator 2024 – Current<br>
+      <br>
+      <h3>Moderator - ICode Guru Silicon Valley, California, USA - (April 2024- Current)</h3><br>
       Coordinated a Data Structures and Algorithm Course at ICode Guru, ensuring a seamless learning experience in Sessions Joined by Industry Professionals, Undergraduate Students with Non-CS Background and High School Students and contributing to the academic growth of the community.
     </li>
     <li>
-      ICode Guru Silicon Valley, California, USA<br>
-      Volunteer 2023 – Current<br>
+      <h3>Volunteer - ICode Guru Silicon Valley, California, USA (2023 – Current) </h3><br>
       Conducted interactive sessions on Data Structures and Algorithms (DSA) at ICode Guru, leveraging my expertise to introduce participants from diverse Educational Backgrounds to foundational concepts of Software Engineering and advanced problem-solving techniques.
     </li>
   </ul>
   <h2>🏅 Competitions and Hackathons</h2>
   <ul>
     <li>
-      Engaged In Advent of Code 2023 (25 – Day Challenge): Advent of Code<br>
+      <h3>Engaged In Advent of Code 2023 (25 – Day Challenge): Advent of Code</h3><br>
       Demonstrated problem-solving skills and programming proficiency by successfully solving a series of coding challenges for 18 out of 25 days.
     </li>
     <li>
-      Contributed To 5+ Hackathons Projects: Lablab.ai<br>
+      <h3>Contributed To 5+ Hackathons Projects: Lablab.ai</h3><br>
       Demonstrated Exceptional Teamwork, Cross Cultural Communication skills in 5+ Hackathons while immersing in cutting-edge technology.
     </li>
   </ul>
