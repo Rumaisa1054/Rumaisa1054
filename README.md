@@ -9,11 +9,8 @@
   <h2>📚 Achievements</h2>
   <ul>
     <li>
-      <ul>
-        <li>
           <h3>CS50 Harvard Puzzle Day 2024: Harvard University</h3><br>
           Achieved a Perfect Score of 9 out of 9 in CS50 Harvard Puzzle Day 2024, demonstrating exceptional problem-solving skills and effective teamwork.</li>
-      </ul>
     </li>
     <li>
       <h3>First Place at PHI-2 Technology 24 Hours Challenge Hackathon: LabLab.ai</h3><br>
@@ -57,16 +54,19 @@
       Bachelor of Computer Science<br>
       CGPA: 3.95 out of 4<br>
       Relevant Coursework: Artificial Neural Networks, Data Structures and Algorithms, Object Oriented Programming, Design and Analysis of Algorithms.
+      
     </li>
     <li>
       <strong>Army Public College, Attock, Federal Board</strong><br>
       Scored 1055/1100 in Higher Secondary School Examination 2020 - 2021<br>
       [39th Position in Federal Board All over Pakistan]
+      
     </li>
     <li>
       <strong>Army Public School, Attock, Federal Board</strong><br>
       Achieved 1054/1100 in Secondary School Examination 2019 – 2020<br>
       [35th Position in Federal Board All Over Pakistan]
+      
     </li>
   </ul>
   <h2>💻 Technical Skills</h2>
