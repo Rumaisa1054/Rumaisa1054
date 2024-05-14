@@ -10,7 +10,8 @@
   <ul>
     <li>
       <ul>
-        <li><h3>CS50 Harvard Puzzle Day 2024: Harvard University</h3><br>
+        <li>
+          <h3>CS50 Harvard Puzzle Day 2024: Harvard University</h3><br>
           Achieved a Perfect Score of 9 out of 9 in CS50 Harvard Puzzle Day 2024, demonstrating exceptional problem-solving skills and effective teamwork.</li>
       </ul>
     </li>
@@ -30,7 +31,6 @@
   <h2>🤝 Leadership and Volunteer Experience</h2>
   <ul>
     <li>
-      <br>
       <h3>Moderator - ICode Guru Silicon Valley, California, USA - (April 2024- Current)</h3><br>
       Coordinated a Data Structures and Algorithm Course at ICode Guru, ensuring a seamless learning experience in Sessions Joined by Industry Professionals, Undergraduate Students with Non-CS Background and High School Students and contributing to the academic growth of the community.
     </li>
