@@ -1,7 +1,7 @@
 <H1>👋 Hi, I’m Rumaisa.</H1>
 
 <p>I'm a dedicated Computer Science student at the University of Engineering and Technology Taxila, deeply engaged in solving LeetCode problems to hone my problem-solving skills.</p>
-<p>Enthusiastic about unraveling complexities, I craft elegant solutions and explore the realms of Deep Learning and Machine Learning.</p>
+<p>Enthusiastic about unraveling complexities, I craft elegant solutions and explore the realm of Machine Learning and Natural Language Processing.</p>
 
 <div>
   <h2>📚 Achievements</h2>
@@ -63,7 +63,7 @@
     <li>Tools: VS Code, Colab, Jupyter Notebooks, PyCharm</li>
     <li>Web- Skills: HTML, CSS, Streamlit, Bootstrap, Gradio</li>
     <li>Databases: MySQL, SQL</li>
-    <li>Deep Learning: Keras, TensorFlow</li>
+    <li>Machine Learning: scikit-learn, pandas, matplotlib, numpy</li>
   </ul>
 </div>
 
